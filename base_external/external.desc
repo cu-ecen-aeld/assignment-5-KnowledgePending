@@ -1,2 +1,3 @@
-AESD assignments package
-Includes writer, finder, and test scripts for ECEN AELD course
+name: project_base
+version: 1.0
+description: AESD assignments package
