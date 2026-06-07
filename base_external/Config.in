@@ -1,5 +1,1 @@
-config BR2_PACKAGE_AESD_ASSIGNMENTS
-    bool "AESD assignments"
-    help
-      Custom package for CU Boulder ECEN AELD assignments.
-      Includes writer, finder, and test scripts.
+source "$BR2_EXTERNAL_project_base_PATH/package/aesd-assignments/Config.in"
