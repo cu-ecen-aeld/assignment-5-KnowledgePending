@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-AESD_ASSIGNMENTS_VERSION = 'ec9e8d1affdb50f5fd74b43788a112f7e5e3fbd1'
+AESD_ASSIGNMENTS_VERSION = '9f1c270eafdf5188bff11b40b029be0ee75a729d'
 AESD_ASSIGNMENTS_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-KnowledgePending.git'
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
