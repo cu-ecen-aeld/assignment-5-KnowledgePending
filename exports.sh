@@ -1,0 +1,8 @@
+export BUILD_CC=gcc-12
+export BUILD_CXX=g++-12
+export CXX_FOR_BUILD=g++-12
+export CC_FOR_BUILD=gcc-12
+export HOSTCC=gcc-12
+export CXX=/usr/bin/g++-12
+export CC=/usr/bin/gcc-12
+export HOST_TAR=/bin/tar
